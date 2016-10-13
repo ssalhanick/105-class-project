@@ -8,8 +8,9 @@ section p {
 	color: indianred;
 }
 section h1 {
-	/*font: 32px 'Open Sans';*/
-	font-weight: bold;
+	font: 72px 'Open Sans';
+	font-weight: 100;
+	letter-spacing: .14em;
 }
 section p {
 	font: 16px 'Open Sans';
